@@ -120,38 +120,6 @@
                 android:id="@+id/btn_10"/>
         </LinearLayout>
 
-
-        <!--<LinearLayout-->
-            <!--android:layout_weight="1"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:orientation="horizontal">-->
-            <!--<Button-->
-                <!--android:layout_weight="1"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:text="9"-->
-                <!--android:id="@+id/btn_9"/>-->
-            <!--<Button-->
-                <!--android:layout_weight="1"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:text="10"-->
-                <!--android:id="@+id/btn_10"/>-->
-            <!--<Button-->
-                <!--android:layout_weight="1"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:text="11"-->
-                <!--android:id="@+id/btn_11"/>-->
-            <!--<Button-->
-                <!--android:layout_weight="1"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:text="12"-->
-                <!--android:id="@+id/btn_12"/>-->
-        <!--</LinearLayout>-->
-
     </LinearLayout>
 
 

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sudoku_stable</string>
+
+    <string name="new_game">New Game</string>
+    <string name="continue_game">Continue</string>
+    <string name="record_game">Record</string>
+    <string name="about_game">About</string>
+
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="master">Master</string>
+
+    <string name="about">这里写关于</string>
+</resources>
